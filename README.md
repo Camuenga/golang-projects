@@ -35,15 +35,15 @@ Go is commonly used for backend development, REST APIs, cloud services, networki
 - [x] Go syntax and fundamentals 
 - [x] Variables and data types 
 - [x] Functions 
-Arrays, slices, and maps
+- [x] Arrays, slices, and maps
 - [x] Structs and methods 
 - [x] Pointers 
-Interfaces
-Error handling
+- [x] Interfaces
+- [x] Error handling
 - [x] Packages and modules 
-HTTP and REST APIs
-JSON
-Databases
-Goroutines and channels
-Testing
-Networking
+- [x] HTTP and REST APIs
+- [x] JSON
+- [x] Databases
+- [x] Goroutines and channels
+- [x] Testing
+- [x] Networking
